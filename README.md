@@ -4,7 +4,7 @@ Computational Tools for Research in Biology - BSC4452 - Fall 2022
 
 #Paul Adunola - Animals
 #Margaret Lilyestrom - Weather
-#Mariana Vianna - 
+#Mariana Vianna - Books
 
 For each group member, find a data source with an API--here is the Public API pageLinks to an external site. I linked to in class, there are other lists, I am sure. Each group member can pick their own API and there is no need that it be Biology related, though should be appropriate. Each group member should pick a different API.
 
